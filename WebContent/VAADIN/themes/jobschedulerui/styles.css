@@ -1,0 +1,24 @@
+@import url(../reindeer/styles.css);
+
+.v-table-row-has-access {
+	background: #e0ffe0;
+}
+
+.disabled {
+	background: #aaaaaa;
+}
+
+.v-table-row-restricted {
+	background: #ffe0e0;
+}
+
+.jobstable .onhold {
+	background: #aaaaff;
+}
+.jobstable .queued {
+	background: #aaffff;
+}
+
+.jobstable .running {
+	background: #aaffaa;
+}	
